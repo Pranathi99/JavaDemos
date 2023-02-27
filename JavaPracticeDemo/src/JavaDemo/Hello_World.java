@@ -7,6 +7,9 @@ public class Hello_World {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!");
 		System.out.println(a);
+		Integer a=20;
+		Integer b=a;
+		System.out.println(a==b);
 		//block();
 	}
 	static void block() {
